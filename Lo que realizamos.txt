@@ -1,0 +1,8 @@
+Haga lo que hicimos en aula: proyecto con orientación a objetos
+PRÓXIMA ACTIVIDAD
+
+Ahora te toca a ti, realizar el mismo procedimiento que hice en la lección, creando el proyecto "screenmatch" en IntelliJ. Dentro de él, debes crear la clase "com.aluracursos.screenmatch.modelos.Pelicula" que contenga los atributos "nombre", "fechaDeLanzamiento", "duracionEnMinutos", "incluidoEnElPlan", "sumaDeLasEvaluaciones" y "totalDeLasEvaluaciones". También, debes incluir los métodos "muestraFichaTecnica", "evalua" y "calculaMedia".
+
+Además, crea otra clase que contenga el método "main". En este método, debes crear un objeto "com.aluracursos.screenmatch.modelos.Pelicula", llenar sus atributos y llamar a sus métodos.
+
+¡Manos a la obra!
