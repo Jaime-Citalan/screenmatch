@@ -1,0 +1,18 @@
+[
+  {
+    "Nombre": "Garfield",
+    "FechaDeLanzamiento": 2017,
+    "DuracionEnMinutos": 13,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeLasEvaluaciones": 0
+  },
+  {
+    "Nombre": "Matrix",
+    "FechaDeLanzamiento": 1993,
+    "DuracionEnMinutos": 60,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeLasEvaluaciones": 0
+  }
+]
